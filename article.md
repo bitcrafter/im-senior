@@ -11,8 +11,6 @@ Apesar de práticas de minimo impacto ambiental fazerem parte do programa educat
 
 ## Prefacio
 
-
-
 ### Agradecimentos
 
 ## Escotismo e Mínimo Impacto Ambiental
