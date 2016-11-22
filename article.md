@@ -1,6 +1,6 @@
-# Mínimo Impacto Ambiental em Atividades ao Ar-livre
+# Mínimo Impacto Ambiental em Atividades Escoteiras
 Renato Valezin <renato@valezin.com.br>
-v0.2, 2016-11-22
+v0.2 - 22/11/2016
 
 ##Conteúdo
 
@@ -42,10 +42,24 @@ Esses conceitos criaram uma quebra de paradigma na minha forma de enxergar as pr
 - Walter
 - Anderson
 
+##Glossário
+ 
+- MMA: Ministério do Meio Ambiente
+- NDR: Não Deixe Rastro (tradução de LNT)
+- NOLS: National Outdoor Leadearship School
+- LNT: Leave No Trace
+- UEB: União dos Escoteiros do Brasil 
+
 ## Escotismo e Mínimo Impacto Ambiental
 
->**REGRA 140 – ORIENTAÇÃO GERAL SOBRE SEGURANÇA**
->![POR 2013](http://www.escoteiros.org.br/wp-content/uploads/2016/01/por_2013.jpg) XII - Os responsáveis pela organização de uma atividade escoteira ao ar livre devem revesti-la de todas as iniciativas e providências necessárias para garantir o mínimo impacto ambiental e fazer com que todos os envolvidos tenham uma atitude de conservação do meio ambiente. [^por140xii]
+Desde de 2013 já foi incluído no POR de forma muito enfática a preocupação com as práticas de mínimo impacto ambiental:
+
+> **REGRA 140 – ORIENTAÇÃO GERAL SOBRE SEGURANÇA**
+> XII - Os responsáveis pela organização de uma atividade escoteira ao ar livre devem revesti-la de todas as iniciativas e providências necessárias para garantir o mínimo impacto ambiental e fazer com que todos os envolvidos tenham uma atitude de conservação do meio ambiente. [^por140xii]
+
+
+
+a
 
 > **Programa do Ramo Sênior: Atividade 69**
 > 
