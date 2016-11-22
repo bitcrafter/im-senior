@@ -45,9 +45,10 @@ Esses conceitos criaram uma quebra de paradigma na minha forma de enxergar as pr
 ## Escotismo e Mínimo Impacto Ambiental
 
 >**REGRA 140 – ORIENTAÇÃO GERAL SOBRE SEGURANÇA**
-> XII - Os responsáveis pela organização de uma atividade escoteira ao ar livre devem revesti-la de todas as iniciativas e providências necessárias para garantir o mínimo impacto ambiental e fazer com que todos os envolvidos tenham uma atitude de conservação do meio ambiente. [^por140xii]
+>![POR 2013](http://www.escoteiros.org.br/wp-content/uploads/2016/01/por_2013.jpg) XII - Os responsáveis pela organização de uma atividade escoteira ao ar livre devem revesti-la de todas as iniciativas e providências necessárias para garantir o mínimo impacto ambiental e fazer com que todos os envolvidos tenham uma atitude de conservação do meio ambiente. [^por140xii]
 
-[^por140xii]: POR 2013, pg 120
+> **Programa do Ramo Sênior: Atividade 69**
+> 
 
 ## Não Deixe Rastros
 
@@ -482,6 +483,7 @@ cond(no)->op
 
   [^stackedit]: [StackEdit](https://stackedit.io/) is a full-featured, open-source Markdown editor based on PageDown, the Markdown library used by Stack Overflow and the other Stack Exchange sites.
 
+[^por140xii]: [POR - Princípios Organizações e Regras 2013](http://www.escoteiros.org.br/wp-content/uploads/2016/01/por.pdf),  Regra 140, artigo XII, pg. 79
 
   [1]: http://math.stackexchange.com/
   [2]: http://daringfireball.net/projects/markdown/syntax "Markdown"
