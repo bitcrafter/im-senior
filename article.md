@@ -57,7 +57,7 @@ Desde de 2013 já foi incluído no POR de forma muito enfática a preocupação 
 > **REGRA 140 – ORIENTAÇÃO GERAL SOBRE SEGURANÇA**
 > XII - Os responsáveis pela organização de uma atividade escoteira ao ar livre devem revesti-la de todas as iniciativas e providências necessárias para garantir o mínimo impacto ambiental e fazer com que todos os envolvidos tenham uma atitude de conservação do meio ambiente. [^por140xii]
 
-
+"todas iniciativas e providencias necessárias para garantir..." 
 
 a
 
