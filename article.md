@@ -1,6 +1,6 @@
-# Mínimo Impacto Ambiental em Atividades ao Ar-livre
+# Mínimo Impacto Ambiental em Atividades Escoteiras
 Renato Valezin <renato@valezin.com.br>
-v0.2, 2016-11-22
+v0.2 - 22/11/2016
 
 ##Conteúdo
 
@@ -11,16 +11,58 @@ Apesar de práticas de minimo impacto ambiental fazerem parte do programa educat
 
 ## Prefacio
 
+Escoteiro desde de os 11 anos passei muitos anos de minha vida escoteira promovendo a prática de "técnicas mateiras", tão queridas e estimadas, passadas de geração em geração pelos Chefes Escoteiros, remontando os primórdios do escotismo até os primeiros ensinamentos de B.P. publicados no saudoso Escotismo para Rapazes.
+
+Porém após iniciar os trabalhos como Escotista, um novo mundo se abriu onde seria necessário estudar sobre objetivos educacionais, programa educativo, coompreensão do comportamento dos jovens da sociedade atual, sendo praticamente infinito o material a se estudar.
+
+Nesse novo contexto, fui buscar ajuda de um grande amigo de infância que nunca ouvera perdido seu espírito escoteiro, escalador, montanhista, biólogo, Paul Colas, comentou sobre algumas prátricas que havia tido contato enquanto praticava algumas expedições com escaladores e montanhistas, um tal de conceito de "práticas de mínimo impacto ambiental" chamado "Pega Leve!".
+
+A partir daí nada mais seria como antes muitas conversas aconteceram onde discutimos o quanto as práticas do escotismo brasileiro ficaram paradas no tempo, e iniciamos um processo de incluir esse novo conceito nas atividades do Grupo Escoteiro Piratinis.
+
+Ao buscar mais material sobre o assunto tive contato com pessoas como Antonio Calvo, da OBB e outros materiais onde tive contato com o material original que formalizava internacionalmente todo esses novos conceitos, chamado "Leave No Trace".
+
+Em 2014 assumi a função de Chefe de Seção da Tropa Senior e em junho realizei o Curso Avançado do Ramo Senior. A cabeça estava fervilhando com as informações e pessoas maralvilhosas que pude trocar muitas ideias.
+
+Ainda 2014 afim de me aperfeiçoar tecnicamente para prover atividades com masi segurança para o Ramo Senior, fiz o Curso Básico de Montanhismo do Clube Alpino Paulista, onde tive mais uma vez contato com os conceitos do Pega Leve! e com alguns montanhistas que também teriam sido escoteiros. Conversando com membros do Clube e colegas de curso, percebi algo interessante, muitos dos montanhistas que foram escoteiros, não diziam que eram escoteiros abertamente, devido a imagem que os movimento escoteiro possui fora de nossa instituição. Para minha surpresa, não somos vistos como pessoas preocupadas com o meio ambiente em atividades ao ar-livre, mas sim completamente o oposto. Fogueiras e acampamentos em locais inapropriados, uso indiscriminado e recursos naturais, grandes e barulhentos grupos que não se preocupam com incomodar as demais pessoas a suas volta, degradação dos locais em que passam. Essa é a visão do movimento escoteiro das pessoas que compartilham os mesmos locais de atividades com os escoteiros.
+
+Isso foi um impacto muito grande em toda minha concepção e percepção sobre o movimento escoteiro. E decidi que algo precisava ser feito, não mais a nível local, mas que esses conceitos fossem divulgados e chegasse mais longe.
+
+Esses conceitos criaram uma quebra de paradigma na minha forma de enxergar as práticas ensinadas e desenvolvidas pelo escotismo. Espero que este material possa ser de utilidade para escotistas e dirigentes que querem dar um passo a mais em direção a uma instituição preocupada com o que ensina aos mais jovens.
 
 
 ### Agradecimentos
 
+- Fernanda
+- Paul
+- Natale
+- Julio
+- prof. flavio
+- Adriano
+- Artur
+- Walter
+- Anderson
+
+##Glossário
+ 
+- MMA: Ministério do Meio Ambiente
+- NDR: Não Deixe Rastro (tradução de LNT)
+- NOLS: National Outdoor Leadearship School
+- LNT: Leave No Trace
+- UEB: União dos Escoteiros do Brasil 
+
 ## Escotismo e Mínimo Impacto Ambiental
 
->**REGRA 140 – ORIENTAÇÃO GERAL SOBRE SEGURANÇA**
+Desde de 2013 já foi incluído no POR de forma muito enfática a preocupação com as práticas de mínimo impacto ambiental:
+
+> **REGRA 140 – ORIENTAÇÃO GERAL SOBRE SEGURANÇA**
 > XII - Os responsáveis pela organização de uma atividade escoteira ao ar livre devem revesti-la de todas as iniciativas e providências necessárias para garantir o mínimo impacto ambiental e fazer com que todos os envolvidos tenham uma atitude de conservação do meio ambiente. [^por140xii]
 
-[^por140xii]: POR 2013, pg 120
+"todas iniciativas e providencias necessárias para garantir..." 
+
+a
+
+> **Programa do Ramo Sênior: Atividade 69**
+> 
 
 ## Não Deixe Rastros
 
@@ -455,6 +497,7 @@ cond(no)->op
 
   [^stackedit]: [StackEdit](https://stackedit.io/) is a full-featured, open-source Markdown editor based on PageDown, the Markdown library used by Stack Overflow and the other Stack Exchange sites.
 
+[^por140xii]: [POR - Princípios Organizações e Regras 2013](http://www.escoteiros.org.br/wp-content/uploads/2016/01/por.pdf),  Regra 140, artigo XII, pg. 79
 
   [1]: http://math.stackexchange.com/
   [2]: http://daringfireball.net/projects/markdown/syntax "Markdown"
