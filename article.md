@@ -2,12 +2,13 @@
 Renato Valezin <renato@valezin.com.br>
 v0.2 - 22/11/2016
 
-##Conteúdo
+## Conteúdo
 
 [TOC]
 
 ## Resumo
-Apesar de práticas de minimo impacto ambiental fazerem parte do programa educativo proposto pelos Escoteiros do Brasil e regulamentado através do POR, a falta de conhecimento sobre essas práticas pelo Escotistas e a falta de apoio de formação pelos Dirigentes mantém os escotismo brasileiro desatualizado em relação  às práticas mais eficientes, reconhecidas internacionalmente. Essa falta de atualização promove ações de alto impacto degradando o meio ambiente e ferindo a imagem do movimento escoteiro como agente de preservação. Este artigo visa contextualizar e esclarecer a instuição, escotista e dirigentes sobre as práticas atualizadas de mínimo impacto ambiental quando realizando atividades ao ar-livre.
+O escotismo propõe o desenvolvimento do jovem pelo sistema de valores, pela da prática do trabalho em equipe e da vida ao ar livre. As práticas de mínimo impacto em atividades ao ar-livre são citadas no programa, porém não fazem parte do currículo de formação dos escotistas. Este projeto visa alterar essa realidade formando bons educadores das práticas e ética de
+mínimo impacto. Este artigo visa contextualizar e esclarecer a instuição, escotista e dirigentes sobre as práticas atualizadas de mínimo impacto ambiental quando realizando atividades ao ar-livre.
 
 ## Prefacio
 
@@ -42,34 +43,91 @@ Esses conceitos criaram uma quebra de paradigma na minha forma de enxergar as pr
 - Walter
 - Anderson
 
-##Glossário
+## Acronimos
  
+- LNT: Leave No Trace
 - MMA: Ministério do Meio Ambiente
 - NDR: Não Deixe Rastro (tradução de LNT)
 - NOLS: National Outdoor Leadearship School
-- LNT: Leave No Trace
 - UEB: União dos Escoteiros do Brasil 
 
-## Escotismo e Mínimo Impacto Ambiental
+## Introdução
 
-Desde de 2013 já foi incluído no POR de forma muito enfática a preocupação com as práticas de mínimo impacto ambiental:
+A formação de adultos dentro do movimento escoteiro é um grande desafio. Como é um movimento voluntário, e sem fins lucrativos, os adultos apresentam diversas formações pessoais e níveis técnicos variados. Quando se pensa especificamente nas técnicas de mínimo impacto ao ar livre, no geral, sabe-se pouco e o material de referência é em sua maioria desatualizado.
 
-> **REGRA 140 – ORIENTAÇÃO GERAL SOBRE SEGURANÇA**
+> ** Mínimo Impacto Ambiental **
+
+> Garantir o bom uso das trilhas e acampamentos limpos, voltado a convivência responsável com o ambiente natural. Uma ética que orienta a conduta adequada do cidadão consciente da importância da conservação da biodiversidade.
+
+
+
+### Movimento Escoteiro
+
+O escotismo é o maior movimento de educação informal e lazer juvenil do mundo. Um dos pilares da didática escoteira é o da vida ao ar livre, assim como o aprender fazendo, utilizando um sistema de valores e da prática do trabalho em equipe. Condutas de vivência ao ar livre são transmitidas ao escotismo desde o lançamento das primeiras edições do “Escotismo para Rapazes”, em 1901, por Baden-Powell, entretanto o conhecimento referente à interação pessoas-natureza nas atividades ao ar livre passou por mudanças significativas desde a fundação do escotismo até hoje.
+
+Há uma tendência mundial de que todas as instituições que pratiquem atividades ao ar livre adotem técnicas de mínimo impacto em ambientes naturais. Estas técnicas são muitas vezes distintas das utilizadas em ambientes antropizados, requerem prática e treinamento. Por exemplo, o movimento escoteiro americano, adota em seu programa práticas de mínimo impacto desde 2004.
+
+A União dos Escoteiros do Brasil, nos anos recentes, adicionou aos programas de todos os ramos, algumas das práticas de mínimo impacto.
+
+No Programa do Ramo Lobinho, apesar de não estar explicito encontramos algumas referências:
+
+> ** Em Acampamentos: **
+
+> Ajude os outros lobinhos a limpar a área utilizada. As embalagens vazias devem ser levadas de volta para a cidade para dar-lhes o destino adequado. É muito importante deixá-la mais limpa do que estava quando vocês chegaram! [^aea]
+
+[^aea] Alcateia em Ação pgxx
+
+Já no Programa do Ramo Escoteiro há uma atividade que faz referência às práticas:
+
+> ** Desenvolvimento Social ** 
+
+> ** Atividade 32. a. ** Participar de um projeto ambiental com sua patrulha ou tropa e aplicar as normas de acampamento de baixo impacto em acampamentos e excursões. [^teea]
+ 
+[^teea] Tropa Escoteira em Ação pgxxx
+
+Dentro do Programa do Ramo Sênior existe uma atividade na area de desenvolvimento espiritual de técnicas de mínimo impacto ao ar livre:
+
+> ** Desenvolvimento Espiritual: **
+
+> **69.** Aplicar em conjunto com a patrulha, normas de campismo de baixo impacto. [^tsea]
+
+[^tsea] Tropa Sêniorem Ação pgxx
+
+E no Ramo Pioneiro também encontramos uma atividade mais abrangente:
+
+> ** Desenvolvimento Social** 
+
+> ** 19. ** Contribuir para a preservação da vida por intermédio de práticas sustentáveis no trato
+do ambiente natural e da convivência harmônica com a natureza. [^cea]
+
+[^cea] Clã em Ação
+
+Além de encontrarmos nas atividades e competências propostas nos Programa também temos uma
+norma institucional.
+
+No POR (Princípios, Organização e Regras) também é descrita a necessidade de garantir o mínimo
+impacto ambiental (Regra 140, item XII):
+
+> ** REGRA 140 – ORIENTAÇÃO GERAL SOBRE SEGURANÇA **
+
 > XII - Os responsáveis pela organização de uma atividade escoteira ao ar livre devem revesti-la de todas as iniciativas e providências necessárias para garantir o mínimo impacto ambiental e fazer com que todos os envolvidos tenham uma atitude de conservação do meio ambiente. [^por140xii]
 
-"todas iniciativas e providencias necessárias para garantir..." 
+As práticas de mínimo impacto em atividades ao ar-livre, apesar de citadas no programa, não fazem parte
+do currículo de formação dos escotistas no Brasil. Por falta de informação, as mesmas técnicas utilizadas em áreas
+antropizadas são eventualmente adotadas em áreas naturais gerando impactos indesejados. O ideal é
+que esse conhecimento esteja difundido na formação de jovens e adultos.
 
-a
-
-> **Programa do Ramo Sênior: Atividade 69**
-> 
 
 ## Não Deixe Rastros
 
-The Leave No Trace principles might seem unimportant until you consider the combined effects of millions of outdoor visitors. One poorly located campsite or campfire may have little significance, but thousands of such instances seriously degrade the outdoor experience for all. Leaving no trace is everyone's responsibility.
+Os prinípios Não Deixe Rastros (NDR) podem não parecer importantes até considerar os impactos combinados do efeito de milhões de visitantes em um ambiente ao ar-livre. Um local de acampamento ou uma fogueira mal localizados podem parecer de pouca significancia, mas centenas deles podem degradar seriamente a experiencia ao ar-livre para todos. Não deixar rastros é responsabilidade  de todos.
 
-Leave No Trace Awareness
+### Consciencia de Não Deixe Rastros
+
+Instigar valores em pessoas jovens e prepará-los para fazerem escolhas morais e ética duranta a vida é a missão do Escotismo. Não Deixe Rastros ajuda a reforçar essa missão, e nos lembra a repeitar os direitos de outros praticantes de atividades ao ar-livre assim como das futuras gerações. O apreço por nosso ambiente natural e o conhecimento das interrelações naturais apoia nosso respeito e reverencia a cerca do meio ambiente e da natureza.
+
 Instilling values in young people and preparing them to make moral and ethical choices throughout their lifetime is the mission of the Boy Scouts of America. Leave No Trace helps reinforce that mission, and reminds us to respect the rights of other users of the outdoors as well as future generations. Appreciation for our natural environment and a knowledge of the interrelationships of nature bolster our respect and reverence toward the environment and nature.
+
 Leave No Trace is an awareness and an attitude rather than a set of rules. It applies in your backyard or local park as much as in the backcountry. We should all practice Leave No Trace in our thinking and actions--wherever we go.
 We learn Leave No Trace by sharing the principles and then discovering how they can be applied. Leave No Trace instills an awareness that spurs questions like "What can we do to reduce our impact on the environment and on the experiences of other visitors?" Use your judgment and experience to tailor camping and hiking practices to the environment where the outing will occur. Forest, mountain, seashore, plains, freshwater, and wetland environments all require different minimum impact practices.
 Outdoor Ethics
@@ -283,7 +341,7 @@ You can delete the current document by clicking <i class="icon-trash"></i> **Del
 
 You can save the current document to a file by clicking <i class="icon-hdd"></i> **Export to disk** from the <i class="icon-provider-stackedit"></i> menu panel.
 
-> **Tip:** Check out the [<i class="icon-upload"></i> Publish a document](#publish-a-document) section for a description of the different output formats.
+
 
 
 ----------
